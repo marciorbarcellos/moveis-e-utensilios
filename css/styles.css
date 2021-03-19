@@ -44,7 +44,7 @@ h3 {
     margin-left: 50px;
     margin-right: 30px;
     padding-right: 20px;
-    width: 280px;
+    width: 380px;
     height: 50px;
     position: relative;
 }
@@ -54,11 +54,18 @@ h3 {
     border-top: 1px solid;
     align-items: center;
     margin-left: 50px;
-    width: 350px;
+    width: 400px;
     height: 50px;
     position: relative;
 }
-
+.divpaycard{
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.paycard{
+    width: 100%;
+}
 .container{
     width: 60%;
     margin: 0 auto 0 auto;
